@@ -16,6 +16,7 @@
   "dependencies": {
     "@types/merkle": "^0.6.1",
     "dotenv": "^16.0.3",
-    "merkle-tree-solidity": "^1.0.8"
+    "merkle-tree-solidity": "^1.0.8",
+    "web3": "^1.8.2"
   }
 }

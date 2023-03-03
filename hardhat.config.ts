@@ -24,7 +24,7 @@ const config: HardhatUserConfig = {
       //@ts-ignore
       accounts: [process.env.PRIVATE_KEY1]
     },
-  }
+  },
 
   etherscan: {
     //@ts-ignore
