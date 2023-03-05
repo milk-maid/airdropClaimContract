@@ -7,8 +7,8 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 contract Airdrop is ERC20 {
   
-  string  name_;
-  string symbol_;
+  string public name_;
+  string public symbol_;
   constructor(string memory _name, string memory _symbol) ERC20(_name, _symbol){
     name_ = _name;
     symbol_ = _symbol;
