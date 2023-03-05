@@ -14,6 +14,7 @@
     "hardhat": "^2.13.0"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
     "@types/merkle": "^0.6.1",
     "dotenv": "^16.0.3",
     "merkle-tree-solidity": "^1.0.8",
